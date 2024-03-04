@@ -1,5 +1,5 @@
 ---
-title: Welcome tgo Quartz
+title: Technical Art Library
 ---
 
 My unofficial witchcraft library ✨
