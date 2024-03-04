@@ -1,5 +1,5 @@
 ---
-title: Vertex Interpolator for Performant Shader
+titletitle: Vertex Interpolator for Performant Shader
 draft: false
 tags:
   - TechnicalArt
