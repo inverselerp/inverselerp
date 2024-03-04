@@ -7,6 +7,10 @@ tags:
 ---
 One of the most common question you'll have while being on your Tech Art journey is this:
 
+>[!Example]- Further Readings
+>Must have a `-/+` after the right bracket.
+
+
 
 >How can I lower the instructions of my material to optimize it ?
 
