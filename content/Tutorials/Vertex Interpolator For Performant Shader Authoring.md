@@ -16,7 +16,7 @@ One of the most common question you'll have while being on your Tech Art journey
 
 The vertex interpolator got introduced in [Unreal 4.16] as a more convenient way to offset calculations to the vertex shader than the previous custom UVs method.
 
-
+![[Pasted image 20240306131144.png]]
 ## Why?
 
 ## Applications
