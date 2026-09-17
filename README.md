@@ -1,4 +1,4 @@
-I'm Philippe, a Senior Technical FX Artist at [Epic Games](https://www.epicgames.com/site/home), based in Vancouver.
+I'm Philippe Patient, a Senior Technical FX Artist at [Epic Games](https://www.epicgames.com/site/home), based in Vancouver.
 
 I work across real-time VFX, Niagara, shaders, tools, and optimization. Previously at [Tuatara](https://tuataragames.com/) and [Unity](https://unity.com/).
 
