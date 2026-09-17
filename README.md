@@ -5,11 +5,12 @@ I work across real-time VFX, Niagara, shaders, tools, and optimization. Previous
 ### 🌱 Latest and ongoing projects
 
 - [Unreal Engine](https://inverselerp.github.io/works/unreal-engine/): Niagara module contributions and features such as the lightweight conversion tool
-- [LEGO Fortnite](https://inverselerp.github.io/works/lego-fortnite/): Niagara effects and real-time shader work
+
 
 ### 🔭 Previous work
 
-- [Fortnite Battle Royale](https://inverselerp.github.io/works/fortnite-battle-royale/): Seasons 16–31
+- [Fortnite Battle Royale](https://inverselerp.github.io/works/fortnite-battle-royale/): Seasons 16–31+ - Gameplay, Cosmetics
+- [LEGO Fortnite](https://inverselerp.github.io/works/lego-fortnite/): Procedural World System, Boss Encounters, Large-Scale Effects
 - [HDRP lighting sample](https://inverselerp.github.io/works/unity-hdrp-lighting/): A sample project teaching lighting best practices, plus HDRP development feedback during my internship at Unity
 
 ### 🎮 Independent games
