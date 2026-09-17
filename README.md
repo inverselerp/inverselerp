@@ -1,16 +1,27 @@
-## Hi there 👋
+I'm Philippe, a Senior Technical FX Artist at [Epic Games](https://www.epicgames.com/site/home), based in Vancouver.
 
-<!--
-**inverselerp/inverselerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across real-time VFX, Niagara, shaders, tools, and optimization. Previously at [Tuatara](https://tuataragames.com/) and [Unity](https://unity.com/).
 
-Here are some ideas to get you started:
+### 🌱 Latest and ongoing projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Unreal Engine](https://inverselerp.github.io/works/unreal-engine/): Niagara module contributions and features such as the lightweight conversion tool
+- [LEGO Fortnite](https://inverselerp.github.io/works/lego-fortnite/): Niagara effects and real-time shader work
+
+### 🔭 Previous work
+
+- [Fortnite Battle Royale](https://inverselerp.github.io/works/fortnite-battle-royale/): Seasons 16–31
+- [HDRP lighting sample](https://inverselerp.github.io/works/unity-hdrp-lighting/): A sample project teaching lighting best practices, plus HDRP development feedback during my internship at Unity
+
+### 🎮 Independent games
+
+Outside my professional work, I make my own games.
+
+- [Yuki「清醒梦」](https://store.steampowered.com/app/3909220/Yuki/): My independent narrative horror adventure with bullet-hell encounters, released under visualmemoryunit_
+
+### ✨ Talks and sharing
+
+- [Building Living World Creatures with Niagara](https://www.youtube.com/watch?v=pwpwy6m38bk): My Unreal Fest Chicago 2026 talk
+- [Field notes](https://inverselerp.github.io/): Notes on real-time VFX, shaders, and Unreal Engine techniques
+- [Selected work](https://inverselerp.github.io/works/): More about my projects and contributions
+
+Find me on [LinkedIn](https://www.linkedin.com/in/philippepatient/) and [X](https://x.com/inverselerp_), or [get in touch](https://inverselerp.github.io/contact/).
