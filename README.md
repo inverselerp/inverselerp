@@ -4,7 +4,8 @@ I work across real-time VFX, Niagara, shaders, tools, and optimization. Previous
 
 ### 🌱 Latest and ongoing projects
 
-- [Unreal Engine](https://inverselerp.github.io/works/unreal-engine/): Niagara module contributions and features such as the lightweight conversion tool
+- [Disney X Fortnite] Shader development, Pipeline development, High-Quality Effects execution
+- [Unreal Engine](https://inverselerp.github.io/works/unreal-engine/): Niagara module contributions and features development such as the lightweight conversion tool
 
 
 ### 🔭 Previous work
